@@ -1,0 +1,43 @@
+/* Header */
+div.header{
+	margin:0px;
+	padding:0px;}
+div.header div.hotline{
+	background:#F5F5F5;
+	color:#000;
+	height:30px;
+	text-align:center;}
+div.header div.giohang{
+	background:#F5F5F5;
+	text-align:center;}
+div.header div.giohang span{
+	margin:0 10px;}
+div.header div.logo{
+	clear:both;
+	padding:10px;
+	height:100px;
+	text-align:center;}
+div.header div.logo img{
+	width:250px;
+	margin:0px;
+	padding:0px;}
+
+/* Menu */
+div.menu{
+	position: -webkit-sticky;
+  	position: sticky;
+  	top: 0;
+	z-index: 1;
+	background:#FFF;}
+.dropdown{
+	width:16%;
+	float:left; 
+	text-align:center;
+	margin-bottom:20px;}
+/*Khôi mới thêm vào*/@media (max-width:768px){.dropdown{float:none; width:100%}}
+/*Khôi mới thêm vào*/ .icon-bar{background:white;border:2px white solid; } .navbar-toggle{background:#666; right:37%; width:20%; height:70%}
+						/*div.header div.hotline, div.header div.giohang{background: #FF3;}
+						div.menu {	background:#6F6;}*/
+
+						
+

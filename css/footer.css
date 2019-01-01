@@ -1,0 +1,18 @@
+/* Footer */
+div.footer{
+	margin:0;
+	padding:0;
+	background:#262626;
+	text-align:center;
+	color:#CCC;
+	clear:both;}
+div.footer p.active{
+	color:#FFF;}
+div.footer div.products{}
+div.footer div.technology{}
+div.footer div.aboutus{}
+div.footer div.copyright{
+	clear:both;
+	padding-top:20px;}
+div.footer div.copyright hr{
+	width:85%;}

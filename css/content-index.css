@@ -1,0 +1,23 @@
+/* Product Home */
+div.newproducts,div.spbanchay,div.khuyenmai,div.bosuutap,div.phanhoi{
+	width:90%;
+	margin:0 auto;
+	text-align:center; 
+	clear:both;
+	border-bottom:#333 solid 1px; 
+	margin-top:25px;}
+div.newproducts img,div.spbanchay img,div.khuyenmai img,div.bosuutap img{
+	width:100%;}
+div.phanhoi img{
+	width:50%;
+	border-radius:50%;}
+div.newproducts p.tieude,div.spbanchay p.tieude,div.khuyenmai p.tieude,div.bosuutap p.tieude,div.phanhoi p.tieude{
+	width:30%;
+	padding:10px 0;
+	margin:0 auto;
+	font-size:24px;}
+	
+/*KHOI mới thêm vào*/  div.newproducts,div.spbanchay,div.khuyenmai,div.bosuutap,div.phanhoi{transition: transform 0.2s; width:100%}
+						.bosuutap, #myCarousel3 {background:rgba(0,0,0,0.05)} 
+						#myCarousel3 img { filter: brightness(95%);}
+					 div.newproducts img:hover,div.spbanchay img:hover,div.khuyenmai img:hover,div.bosuutap img:hover{transform: scale(1.05);}

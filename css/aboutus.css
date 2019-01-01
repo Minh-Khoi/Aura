@@ -1,0 +1,15 @@
+/* About Us */
+div.content div.aboutus{
+	width:90%;
+	margin:0 auto;
+	text-align:center;
+	clear:both;}
+div.content div.aboutus p.tieude{
+	width:30%;
+	padding:10px 0;
+	margin:0 auto;
+	font-size:24px;}
+div.content div.aboutus img{
+	width:100%;}
+div.content div.aboutus div.ourstory{
+	font-size:16px;}

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <!-- TemplateBeginEditable name="doctitle" -->
+    <title>Aura Watches</title>
+    <!-- TemplateEndEditable -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    
+  	<link rel="stylesheet" type="text/css" href="../css/header.css">
+    <link rel="stylesheet" type="text/css" href="../css/content.css">
+    <link rel="stylesheet" type="text/css" href="../css/banner.css">
+    <link rel="stylesheet" type="text/css" href="../css/footer.css">
+    <!--CSS content-->
+    <link rel="stylesheet" type="text/css" href="../css/content-index.css">
+    <link rel="stylesheet" type="text/css" href="../css/allproduct.css">
+    <link rel="stylesheet" type="text/css" href="../css/aboutus.css">
+    <link rel="stylesheet" type="text/css" href="../css/contactus.css">
+    <!---->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div class="container-fluid">
+    	<div class="row header">
+        	<div class="hotline col-lg-6 col-md-6 col-sm-6 col-xs-12">Hotline:0123456789 - Email:aurawatch@gmail.com</div>
+            <div class="giohang col-lg-6 col-md-6 col-sm-6 col-xs-12"><span><a href="https://www.facebook.com/officialAuraWatch/" target="_blank"><img src="../imgs/banner/icon-fb.png" width="30px"/></a></span> 
+            <span><a href="https://www.instagram.com/aura_watch/" target="_blank"><img src="../imgs/banner/icon-insta.png" width="30px"/></a></span> 
+            <span><img src="../imgs/banner/icon-cart.png" width="30px"/>(0)</span></div>
+        	<div class="logo"><a href="../index.html"><img src="../imgs/logo/logo.png"/></a></div>
+        </div>
+        <div class="menu">
+        	<hr style="clear:both"/>
+                	<div>
+                    	<div class="dropdown"><a href="../index.html" style="color:#000; text-decoration:none;">HOME</a></div>
+                    </div>
+                    <div class="dropdown">
+                    	<div data-toggle="dropdown">PRODUCTS<span class="caret"></span></div>
+                        	<ul class="dropdown-menu">
+                            	<li class="dropdown-header">Watch</li>
+                                <li><a href="../pages/watch/men.html">MEN</a></li>
+                                <li><a href="../pages/watch/women.html">WOMEN</a></li>
+                                <li><a href="../pages/watch/lefons.html">LEFONS</a></li>
+                                <li><a href="#">SPORTZ</a></li>
+                                <li><a href="#">PREMIER</a></li>
+                                <li class="divider"></li>
+                                <li class="dropdown-header">Clock</li>
+                                <li><a href="#">GENTRY</a></li>
+                            </ul>
+                   	</div>
+                    <div class="dropdown">
+                    	<div data-toggle="dropdown">TECHNOLOGY<span class="caret"></span></div>
+                        	<ul class="dropdown-menu">
+                                <li><a href="#">Manufacture</a></li>
+                                <li><a href="#">Technology</a></li>
+                            </ul>
+                    </div>
+                    <div>
+                    	<div class="dropdown"><a href="../pages/aboutus.html" style="color:#000; text-decoration:none;">ABOUT US</a></div>
+                    </div>
+                    <div>
+                    	<div class="dropdown"><a href="../pages/contactus.html" style="color:#000; text-decoration:none;">CONTACT US</a></div>
+                    </div>
+                    <div>
+                    	<div class="dropdown"><a href="../index.html" style="color:#000; text-decoration:none;">FAQs</a></div>
+                    </div>
+        	<hr style="clear:both"/>
+        </div>
+        <!-- TemplateBeginEditable name="content" -->
+        <div class="content">
+        <!---->
+        
+        <!---->
+        </div>
+        <!-- TemplateEndEditable -->
+        <div class="row footer">
+        	<div class="products col-lg-3 col-md-3 col-sm-3 col-xs-12">
+            	<br/>
+            	<p class="active"><b>PRODUCTS</b></p>
+                <p>1</p>
+                <p>2</p>
+            </div>
+            <div class="technology col-lg-3 col-md-3 col-sm-3 col-xs-12">
+            	<br/>
+            	<p class="active"><b>TECHNOLOGY</b></p>
+                <p>MANUFACTURE</p>
+                <p>TECHNOLOGY</p>
+            </div>
+            <div class="aboutus col-lg-3 col-md-3 col-sm-3 col-xs-12">
+            	<br/>
+            	<p class="active"><b>ABOUT US</b></p>
+                <p>STORE LOCATOR</p>
+                <p>CONTACT US</p>
+            </div>
+            <div class="aboutus col-lg-3 col-md-3 col-sm-3 col-xs-12">
+            	<br/>
+            	<p class="active"><b>DIA CHI</b></p>
+                <p>CS1: abc</p>
+                <p>CS2: xyz</p>
+                <p>Hotline: 0123456789</p>
+                <p>Email: aurawatches@gmail.com</p>
+            </div>
+            <div class="copyright">
+            	<hr/>
+                <p>&copy; 2018 Aura Watches.</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
